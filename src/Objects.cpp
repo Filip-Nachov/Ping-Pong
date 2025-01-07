@@ -9,6 +9,6 @@ std::string ball{"O"};
 void Barriers() { 
 }
 
-void screenupdate() {
+void screenUpdate() {
     system("clear");
 }
