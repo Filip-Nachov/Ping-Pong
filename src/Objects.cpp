@@ -6,3 +6,7 @@ std::string barrier{'#'};
 /* functions */
 void Barriers() { 
 }
+
+void screenupdate() {
+    clrscr();
+}
