@@ -10,5 +10,5 @@ void Barriers() {
 }
 
 void screenupdate() {
-    clrscr();
+    system("clear");
 }
